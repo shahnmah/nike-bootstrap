@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&display=swap');
 
-h1{ 
-    /* font-size: 80px; */
-    color: #363958;
+h1,h2{ 
     font-family: 'Bebas Neue', cursive;
+}
+h4{
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+}
+.heading-color{
+    color: #363958;
 }
 .span-color{
     color: #FA804C;
@@ -15,13 +20,15 @@ p{
 a{
     font-family: 'Roboto', sans-serif;
 }
-/* .button-bg{
-    background-image: inear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);;
-} */
 .header{
     background-color: #FFF9F4;
 }
+.nav-bg{
+    text-align: center;
+}
 .banner{
-    /* height: calc(715px - 60px); */
     background-color: #FFF9F4;
+}
+.shoe-img-bg{
+    background-color: #F1F1F1;
 }
