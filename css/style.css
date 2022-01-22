@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;700&display=swap');
+
+h1{ 
+    /* font-size: 80px; */
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.span-color{
+    color: #FA804C;
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    font-family: 'Roboto', sans-serif;
+}
