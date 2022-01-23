@@ -31,4 +31,5 @@ a{
 }
 .shoe-img-bg{
     background-color: #F1F1F1;
+    max-height: 315px;
 }
